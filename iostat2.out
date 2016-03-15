@@ -1,0 +1,120 @@
+object3: Linux 3.13.0-76-generic (object3)  03/15/2016  _x86_64_    (4 CPU)
+object3: 
+object3: 03/15/2016 08:12:48 PM
+object3: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object3:            1.44    0.00    0.55    0.21    0.00   97.79
+object3: 
+object3: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object3: sda               0.04     1.17   15.92    2.04     1.63     0.10   198.11     0.29   16.36    6.41   94.07   0.48   0.86
+object3: 
+object2: Linux 3.13.0-76-generic (object2)  03/15/2016  _x86_64_    (4 CPU)
+object2: 
+object2: 03/15/2016 08:28:55 PM
+object2: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object2:            1.46    0.00    0.47    0.21    0.00   97.86
+object2: 
+object2: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object2: sda               0.03     1.60    1.73    2.51     0.13     0.12   118.83     0.36   85.40   44.19  113.82   1.18   0.50
+object2: 
+object1: Linux 3.13.0-76-generic (object1)  03/15/2016  _x86_64_    (4 CPU)
+object1: 
+object1: 03/15/2016 08:29:12 PM
+object1: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object1:            4.61    0.00    1.29    0.19    0.00   93.91
+object1: 
+object1: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object1: sda               0.02     1.37    1.25    5.63     0.14     0.21   102.71     0.49   71.03   27.98   80.57   0.97   0.67
+object1: 
+object4: Linux 3.13.0-76-generic (object4)  03/15/2016  _x86_64_    (4 CPU)
+object4: 
+object4: 03/15/2016 08:28:55 PM
+object4: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object4:            1.64    0.00    0.77    0.24    0.00   97.35
+object4: 
+object4: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object4: sda               0.04     1.25   16.52    2.63     1.69     0.16   198.16     0.35   18.02    6.17   92.64   0.54   1.03
+object4: 
+object3: 03/15/2016 08:12:53 PM
+object3: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object3:           15.79    0.00    3.86    0.41    0.00   79.95
+object3: 
+object3: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object3: sda               2.00     1.00    1.20    0.40     0.01     0.01    24.00     0.00    1.50    1.33    2.00   1.00   0.16
+object3: 
+object2: 03/15/2016 08:29:00 PM
+object2: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object2:           63.35    0.00    7.74    0.25    0.00   28.67
+object2: 
+object2: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object2: sda               0.40    15.40   21.20    4.20     0.16     0.27    34.58     0.03    1.01    1.02    0.95   0.76   1.92
+object2: 
+object1: 03/15/2016 08:29:17 PM
+object1: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object1:           15.63    0.00    4.00    2.87    0.00   77.50
+object1: 
+object1: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object1: sda               0.00     4.20    6.20  203.00     0.07    17.37   170.80    18.55   88.65    3.87   91.24   0.65  13.60
+object1: 
+object4: 03/15/2016 08:29:00 PM
+object4: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object4:           15.36    0.00    4.53    0.51    0.00   79.60
+object4: 
+object4: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object4: sda               0.00     5.60    2.60    0.40     0.02     0.02    28.27     0.01    4.80    5.23    2.00   2.67   0.80
+object4: 
+object3: 03/15/2016 08:12:58 PM
+object3: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object3:           17.15    0.00    3.73    0.36    0.00   78.76
+object3: 
+object3: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object3: sda               0.00     0.40    0.00    0.40     0.00     0.00    16.00     0.00    2.00    0.00    2.00   2.00   0.08
+object3: 
+object2: 03/15/2016 08:29:05 PM
+object2: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object2:           41.43    0.00    7.52    0.97    0.00   50.08
+object2: 
+object2: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object2: sda               0.00    11.80   12.20  221.60     0.14     6.72    60.11     9.22   39.43    0.66   41.56   0.33   7.68
+object2: 
+object1: 03/15/2016 08:29:22 PM
+object1: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object1:           16.23    0.00    4.77    4.01    0.00   75.00
+object1: 
+object1: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object1: sda               0.00     3.60    2.40    0.60     0.04     0.02    36.80     0.16   54.40   19.33  194.67  39.47  11.84
+object1: 
+object4: 03/15/2016 08:29:05 PM
+object4: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object4:           17.83    0.00    4.78    0.51    0.00   76.88
+object4: 
+object4: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object4: sda               0.00     2.80    0.00   10.80     0.00     1.74   329.04     1.06   17.33    0.00   17.33   0.96   1.04
+object4: 
+object3: 03/15/2016 08:13:03 PM
+object3: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object3:           18.75    0.00    5.57    0.41    0.00   75.27
+object3: 
+object3: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object3: sda               0.00     2.00    0.00    0.60     0.00     0.01    34.67     0.00    1.33    0.00    1.33   1.33   0.08
+object3: 
+object2: 03/15/2016 08:29:10 PM
+object2: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object2:           86.87    0.00   12.63    0.00    0.00    0.50
+object2: 
+object2: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object2: sda              13.20    31.20  209.20  150.80    10.50     7.72   103.66     6.86   19.07    0.58   44.71   0.29  10.40
+object2: 
+object1: 03/15/2016 08:29:27 PM
+object1: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object1:           49.90    0.00    7.95    1.77    0.00   40.38
+object1: 
+object1: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object1: sda              39.60     2.00   38.00    0.40     0.73     0.01    39.54     0.14    3.58    3.62    0.00   2.81  10.80
+object1: 
+object4: 03/15/2016 08:29:10 PM
+object4: avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+object4:           16.14    0.00    5.16    1.82    0.00   76.88
+object4: 
+object4: Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+object4: sda              10.60     3.00    5.00   54.00     0.10     8.96   314.52     2.83   62.87    9.28   67.84   1.44   8.48
+object4: 
